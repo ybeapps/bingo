@@ -1,5 +1,7 @@
 # Hebrew Bingo Generator
 
+**[Try it live →](https://ybeapps.github.io/bingo/)**
+
 A single-page web app for generating randomized Hebrew bingo cards, ready to print.
 
 ## Features
